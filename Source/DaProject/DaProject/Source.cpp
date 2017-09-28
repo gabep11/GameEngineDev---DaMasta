@@ -1,6 +1,8 @@
 #include "Game.h"
+#include "Actors/SpecialAbilityComponent.h"
 
-int main() {
+int main() 
+{
 
 	Game DaGame = Game();
 	DaGame.initGame();

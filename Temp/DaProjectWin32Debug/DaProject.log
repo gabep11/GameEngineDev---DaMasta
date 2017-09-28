@@ -1,5 +1,3 @@
-﻿  Game.cpp
-f:\users\gabe\documents\github\gameenginedev---damasta\source\daproject\daproject\game.cpp(72): warning C4244: 'initializing': conversion from 'const DWORDLONG' to 'unsigned int', possible loss of data
-f:\users\gabe\documents\github\gameenginedev---damasta\source\daproject\daproject\game.cpp(84): warning C4715: 'CheckMemory': not all control paths return a value
+﻿  SpecialAbilityComponent.cpp
   DaProject.vcxproj -> F:\Users\Gabe\Documents\GitHub\GameEngineDev---DaMasta\Source\DaProject\..\..\Lib\Win32Debug\DaProjectWin32Debug.exe
   DaProject.vcxproj -> F:\Users\Gabe\Documents\GitHub\GameEngineDev---DaMasta\Source\DaProject\..\..\Lib\Win32Debug\DaProjectWin32Debug.pdb (Partial PDB)
